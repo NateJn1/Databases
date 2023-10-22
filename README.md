@@ -8,4 +8,4 @@ All of which is available in Part 1.
 
 Part 2:
 We had to revise our diagram from critiques given from TAs and the professor. From there, we used the diagram to create a relational schema in sentence notation.
-From there, we created some examples of relational algebra in practice using out relational schema, and created a specification sheet to show meta-data about each attribute in the schema.
+Then, we created some examples of relational algebra in practice using out relational schema, and created a specification sheet to show meta-data about each attribute in the schema.
