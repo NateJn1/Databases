@@ -1,10 +1,6 @@
 # Databases
 For CSE 3241 at The Ohio State University.
 
-Part 1:
-The project is for creating a database for Smilow Dentristy for Dr. Hope Smilow's dental practice. 
-We were asked to go through a phase of researching to create an enhanced entity relationship diagram and to create a small sample data.
+The first 3 parts are just going over the steps taken throughout the semester.
 
-Part 2:
-We had to revise our diagram from critiques given from TAs and the professor. From there, we used the diagram to create a relational schema in sentence notation.
-Then, we created some examples of relational algebra in practice using out relational schema, and created a specification sheet to show meta-data about each attribute in the schema.
+Part 4 is the final result showing our creation of a database from scratch. First creating an entity relationship diagram, creating a relational schema, and creating functional SQL code for the relational schema.
